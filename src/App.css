@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Antonio:wght@400;600;700&display=swap');
+body{
+    font-family: 'Antonio', sans-serif;
+}
+.navbar {
+    background: #f4f4f4;
+}
+
+.navbar h2 {
+    float: left;
+}
+
+.navbar .navlinks {
+    float: right;
+}
